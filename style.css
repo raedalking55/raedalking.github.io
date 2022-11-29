@@ -1,7 +1,7 @@
 html, body{
 	height: 100%;
 	width: 100%;
-  background: url(Wall.jpg) no-repeat center center fixed; 
+  background: url(https://images.unsplash.com/photo-1521846562476-9c2446539e47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
